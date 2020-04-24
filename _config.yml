@@ -5,6 +5,7 @@ url: "http://soroush.omranpour.ir"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
