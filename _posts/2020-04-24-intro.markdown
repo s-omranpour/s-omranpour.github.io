@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Introduction
+date:   2020-04-24
+image:  intro.jpeg
+tags:   Personal
+---
+
+Hi This is me. After a long time putting off, finally I started my personal blog to have somewhere to write about all the things I like other than social media. By the time I'm writing this the humankind is in danger of a virus called COVID-19 and everubody (including me) is in self-quarantine, lying on a couch or a bed.
+
+You can know more about me [here]({{ site.baseurl }}{% link _pages/about.md %}).
