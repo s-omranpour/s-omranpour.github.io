@@ -2,7 +2,7 @@
 layout: post
 title:  deep learning framework part1
 date:   2020-06-02
-image:  type-machine.jpeg
+image:  type-machine.jpg
 tags:   deep-learning python pytorch
 ---
 
