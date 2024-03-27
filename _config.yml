@@ -21,12 +21,12 @@ repository               : "s-omranpour/s-omranpour.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Soroush Omranpour"
   pronouns         : "he/him"  
   bio              : "Research MSc Computer Science"
   location         : "Montreal, Quebec"
-  employer         : 
+  employer         : "Mila - McGill University"
   uri              : # URL
   email            : "soroush.omranpour@mila.quebec" 
 
