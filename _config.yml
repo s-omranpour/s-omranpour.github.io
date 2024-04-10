@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Soroush Omranpour"
 title_separator          : "-"
 name                     : &name "Soroush Omranpour"
-description              : &description "MSc Computer Science @ Mila"
+description              : &description "MSc Computer Science @ Mila/McGill"
 url                      : https://s-omranpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s-omranpour/s-omranpour.github.io"
@@ -40,7 +40,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : soroush.omranpour
+  linkedin         : soroush-omranpour
   medium           : # URL
   soundcloud       : dream-s-catcher
 
